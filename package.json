@@ -1,0 +1,17 @@
+{
+  "name": "sui_nft_mirrorworld",
+  "version": "1.0.0",
+  "main": "deploy.js",
+  "type": "module",
+  "scripts": {
+    "start":"node deploy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mirrorworld/web3.js": "^2.9.0"
+  }
+}
